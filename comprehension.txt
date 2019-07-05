@@ -14,6 +14,10 @@ Main Function
 Always have the Main function of the product in mind
 Features are not the main function of a product
 
+Taxi - Transportation 
+Pizza Restaurant - serving Pizza as Food
+Hotel - overnight stays for people
+Smartphone - Calling or Texting and Communication via the Internet
 
 
 The First Principle
@@ -28,5 +32,27 @@ STEP 3: Create new solutions from scratch.
 
 
 
-
+Map a plan
 ------------------------------------------------------
+When approching a problem, have a strategy and always plan ahead and create major steps that 
+will lead to the solution. #Divide and Conquer 
+
+
+Debugging 
+-------------------------------------------------------
+Trial and error is key in trying to arrive at a solution
+Keep trying until the solution is bug free and working as 
+desired
+
+
+
+
+
+
+
+
+
+
+
+
+
