@@ -31,6 +31,18 @@ STEP 3: Create new solutions from scratch.
 
 
 
+Understand
+------------------------------------------------------
+Do research on 
+- StackOverflow
+- Google
+- Ask peers 
+
+Understanding the problem will provide clarity on solving the problem
+Research will shed some light on how others have approached the problem before
+and it helps to reinvent the wheel. This helps to save time and resourses.
+
+
 
 Map a plan
 ------------------------------------------------------
