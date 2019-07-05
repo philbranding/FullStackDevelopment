@@ -56,6 +56,9 @@ Trial and error is key in trying to arrive at a solution
 Keep trying until the solution is bug free and working as 
 desired
 
+If there are errors, you do not have to worry. Find help by doing research and asking others.
+
+
 
 
 
