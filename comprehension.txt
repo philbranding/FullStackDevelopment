@@ -50,7 +50,7 @@ When approching a problem, have a strategy and always plan ahead and create majo
 will lead to the solution. #Divide and Conquer 
 
 
-Debugging 
+Debug 
 -------------------------------------------------------
 Trial and error is key in trying to arrive at a solution
 Keep trying until the solution is bug free and working as 
