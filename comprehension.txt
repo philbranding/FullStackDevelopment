@@ -1,0 +1,32 @@
+# Notes on Programming 
+#---------------------------------------------------
+
+Phillip Mudavanhu
+Fullstack Dev
+July 2019
+
+
+
+Main Function
+---------------------------------------------------
+
+
+Always have the Main function of the product in mind
+Features are not the main function of a product
+
+
+
+The First Principle
+-----------------------------------------------------
+Use the First Principles Method to approach a problem.
+- It is the same as divide and conquere approach only that you still have to go back to the fundamental components that make up a problem that you are trying to solve.
+
+STEP 1: Identify and define your current assumptions. 
+STEP 2: Breakdown the problem into its fundamental principles. 
+STEP 3: Create new solutions from scratch.
+
+
+
+
+
+------------------------------------------------------
