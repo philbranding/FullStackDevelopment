@@ -60,13 +60,81 @@ If there are errors, you do not have to worry. Find help by doing research and a
 
 
 
+Tools
+---------------------------------------------------------
+Sublime Text
+Visual Studio Code
+Atom
+Repl.it 
+
+
+
+What is 
+----------------------------------------------------------
+Webdevelopment: 
+
+Lambda 
+W3Schools
+
+It is important to have an overall idea about webdevelopment.
+Every Web Developer must have a basic understanding of :
+
+- HTML (HTML5 , HTTP / XHR)
+- CSS (CSS Responsive)
+- Javascript (ECMAScript 5)
+
+Responsive Web Design and ECMAScript 5 are used in all modern 
+web development. 
 
 
 
 
+HTML
+------------------------------------------------------------
+
+- HTML stands fir Hyper Text Markup Language
+- It is the standard markup language for the Web pages
+- Elements are used to build blocks of HTML pages
+- HTML eements ate represented by <> tags
+
+
+<!DOCTYPE html>.                          <!-- declaration defines the document as HTML5 version         /-->
+<html lang = "en">                        <!-- root element of an HTML page, (in a tree - when parsing)  /-->
+                                          <!-- "en" attributes that defines the language of the document /-->
+	                                      <!-- lang : contains the information about the document        /-->
+    <meta charset = "utf-8">  	          <!-- attributes defines the character set used in the document /-->
+    <title> Page Title </title>           <!-- specifies a title for the document                        /-->
+	
+	<body>                                <!-- element contains the visible pages content                /-->  
+		<h1> Heading </h1>.               <!-- element contains the visible pages content                /-->  
+		<p> paragraph tag </p>            <!-- element defines a paragraph                               /-->  
+		<p> another paragraph </p>        <!-- element defines a paragraph                               /-->  
+
+		<a href= "https://www.w3schools.com">  <!--      links and have a destination attribute href     /--> 
+		<img scr = "img_w3schools.jpg" alt = "W3Schools" style = "width:120px; height:150px" 
+		<button> Click Me </button>
+		<ul> 							  <!-- UnOrdered list                                            /-->
+			<li> HTML5 </li>			  <!-- List item                                                 /-->
+			<li> CSS </li>
+			<li> JavaScript </li>
+		</ul>
+
+		<table>                           <!-- used used to define a table element                      /--> 
+			<tr>                          <!-- table element                                            /--> 
+				<th> Firstname</th>
+				<th> Lastname</th>
+				<th> Age</th>
+			</tr>
+		</table>
 
 
 
+	</body>
+
+</html>
+
+
+-------------------------------------------------------------
 
 
 
